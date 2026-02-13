@@ -1,0 +1,65 @@
+* {
+    font-family: monospace;
+}
+
+#inp1 {
+    padding: 10px 20px;
+    border-radius: 0px 20px 0px 20px;
+    width: 300px;
+    outline: none;
+    border: none;
+}
+
+.addForm {
+    width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 30px 20px;
+    background-color: blueviolet;
+    border-radius: 0px 50px 0px 50px;
+
+}
+
+.submit {
+    padding: 8px 15px;
+    border-radius: 3px 20px 3px 20px;
+    border: none;
+    box-shadow: 0px 0px 10px 3px rgba(238, 130, 238, 0.641);
+}
+
+.submit:hover {
+    background-color: blueviolet;
+    color: aqua;
+}
+
+
+table {
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+tr,
+td,
+th {
+    border: 1px solid gray;
+    padding: 15px 10px;
+    font-size: 18px;
+}
+
+th {
+    padding-right: 180px;
+
+}
+
+.anm2 {
+    padding: 5px 10px;
+    padding-right: 150px;
+}
+
+.btnEdit {
+    padding: 10px;
+    background-color: aqua;
+}

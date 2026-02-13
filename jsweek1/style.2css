@@ -1,0 +1,22 @@
+/* .card{
+    margin: auto;
+    background-color: goldenrod;
+    box-shadow: 10px 10px 30px rgb(113, 112, 112) ;
+    display: flex;
+    align-items: center;
+}
+.aa1{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    background-color: darkgoldenrod;
+    margin-left: auto;
+
+} */
+
+
+
+.add{
+    padding: 10px;
+    border-radius: 45%;
+    border: none;
+}

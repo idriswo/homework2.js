@@ -1,0 +1,21 @@
+.box{
+    width: 65%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.box,h1{
+    font-size: 70px;
+}
+.box,p{
+    font-size: 35px;
+}
+.box,button{
+    padding: 8px 25px;
+    font-size: 18px;
+    border-radius: 7px;
+    border: none;
+}

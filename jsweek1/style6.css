@@ -1,0 +1,56 @@
+.box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div1 {
+    width: 300px;
+    height: 510px;
+    background-color: red;
+    font-weight: bold;
+    border-radius: 15px;
+    text-align: center;
+    margin: 50px auto;
+}
+
+
+.image1 {
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.addForm {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: start;
+    /* justify-content: end; */
+    gap: 15px;
+}
+
+.inp1 {
+    padding: 4px 14px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.btn {
+    background-color: blue;
+    border-radius: 7px;
+    padding: 3px;
+}
+
+.btn1 {
+    padding: 8px 12px;
+    border-radius: 10px;
+    background-color: rgb(37, 37, 190);
+    color: white;
+    border: none;
+}
+.btn1:hover{
+    background-color: black;
+    padding: 9px 13px;
+}

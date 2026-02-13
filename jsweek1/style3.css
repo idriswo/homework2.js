@@ -1,0 +1,24 @@
+.box{
+    width: 70%;
+    height: 90vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+/* .box1{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    box-shadow: 10px 10px 15px gray;
+}
+.aa1{
+    color: rgb(220, 63, 20);
+}
+.boxt{
+    text-align: center;
+} */
+

@@ -1,0 +1,18 @@
+tr,td,th{
+    border: 1px solid gray;
+    padding: 5px 10px;
+    border-collapse: collapse;
+}
+table{
+    border: 2px solid gray;
+}
+.addForm{
+    width: 400px;
+    padding: 5px 30px;
+    /* background-color: aqua; */
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* flex-direction: column; */
+}
+
+
